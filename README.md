@@ -1,4 +1,4 @@
-<h1 align="left">Hola 👋 , Soy Miguel</h1>
+<h1 align="left">Hola 👋, Soy Miguel desarrollador Front-end</h1>
 
 ###
 
@@ -50,15 +50,4 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=miguelangeldevlp" height="150" alt="stats graph"  />
-   <img class="img" style="height:200px; width:410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngelDevlp&theme=radical&layout=compact" />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
 </div>
